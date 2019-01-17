@@ -1,4 +1,4 @@
 # Laravel-Notification
 Laravel5.7 Notifications
-  admin registeration email notification
-  student registeration sms notifcations
+  1. admin registeration email notification
+  2. student registeration sms notifcations
